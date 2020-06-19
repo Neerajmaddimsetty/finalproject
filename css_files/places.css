@@ -1,0 +1,45 @@
+body 
+{
+    background-color: rgb(5, 2, 54);
+}
+
+#travelog
+{
+    width: 65%;
+    height: 100%;
+    margin-left: 25%;
+    margin-top: 7%;
+}
+
+#form 
+{
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 10%;
+}
+
+.container 
+{
+    margin-right: 310px;
+    margin-left: 90px;
+    width: 72%;
+    height: 100%;
+}
+
+#login 
+{
+    width: 65%;
+    margin: 5%;
+    margin-right: 0px;
+}
+
+#registration
+{
+    margin-top: 17px;
+}
+
+#loginform 
+{
+    width: 70%;
+    margin-left: 0px;
+}
